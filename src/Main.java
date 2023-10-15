@@ -92,7 +92,6 @@ public class Main {
             else max = three;
         System.out.println("Даны 3 числа: " + one + " " + two + " " + three);
         System.out.println("Самое большое из этих чисел = " + max);
-
     }
 
     public static void main(String[] args)
